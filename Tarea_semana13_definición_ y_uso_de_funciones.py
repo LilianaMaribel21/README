@@ -132,7 +132,7 @@ def calcular_promedio_semanal(temperaturas, semana, ciudades):
             promedio = total_temp / len(semana_temperaturas)
             resultados.append(promedio)
     else:
-        # Si el usuario ingresa un valor incorrectop mostramos el siguiente mensaje
+        # Si el usuario ingresa un valor incorrecto mostramos el siguiente mensaje
         print("El número de semana que ingreso es incorrecto. Se debe ingresar entre 1 y 4.")
     return resultados
 
