@@ -17,7 +17,7 @@ información_personal["Profesión"] = "Estudiante de Tecnologías de la Informac
 información_personal["Teléfono"] = "0985086408"   # se agregó un número de teléfono ficticio
 
 # Eliminamos la clave "Edad"
-información_personal ["Edad"]
+del información_personal ["Edad"]
 
 # Imprimimos el diccionario resultante después de realizar todas las operaciones
 print(información_personal)
