@@ -1,6 +1,6 @@
 # Tarea semana 16 - Trabajo con Archivos de Texto
 # Creamos un archivo llamado my_notes.txt
-#Escribimos tres lineas de notas personales en el archivo
+# Escribimos tres lineas de notas personales en el archivo
 
 with open("my_notes.txt", "w") as Archivo_de_texto:
 
