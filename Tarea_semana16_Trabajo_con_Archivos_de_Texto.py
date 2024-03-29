@@ -34,6 +34,6 @@ with open("my_notes.txt", "w") as Archivo_de_texto:
             "1: ", Linea_1,
             "2: ", Linea_2,
             "3: ", Linea_3
-        )
+             )
 
 # Fin del programa
