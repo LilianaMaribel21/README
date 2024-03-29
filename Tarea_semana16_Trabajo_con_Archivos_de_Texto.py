@@ -2,6 +2,9 @@
 # Creamos un archivo llamado my_notes.txt
 # Escribimos tres lineas de notas personales en el archivo
 
+# Whiteboard
+
+#Creamos un archivo llamado my_notes.txt
 with open("my_notes.txt", "w") as Archivo_de_texto:
 
 # Escribimos tres líneas de notas personales en el archivo
