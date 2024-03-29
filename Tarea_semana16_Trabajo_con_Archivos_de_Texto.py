@@ -31,9 +31,9 @@ with open("my_notes.txt", "w") as Archivo_de_texto:
 # Mostramos el resultado de cada línea leída
         print("Contenido del Archivo")
         print(
-            "1: ", Linea_1,
-            "2: ", Linea_2,
-            "3: ", Linea_3
+            Linea_1,
+            Linea_2,
+            Linea_3
              )
 
 # Fin del programa
